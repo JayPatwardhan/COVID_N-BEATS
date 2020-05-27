@@ -5,4 +5,4 @@ The data was gathered from https://data.world/covid-19-data-resource-hub/covid-1
 
 N-BEATS NN implementation: https://github.com/philipperemy/n-beats
 
-The following implementation can be also used for any region that is available in the data set, to predict confirmed cases and deaths at various time steps.
+The following implementation in "NBEATSWorld.ipynb" can be used for any region that is available in the data set, to predict confirmed cases and deaths at any desired forecast horizon.
