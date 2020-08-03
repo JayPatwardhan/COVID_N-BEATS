@@ -1,5 +1,5 @@
 # COVID_N-BEATS
-Using N-BEATS implementations to predict COVID-19 confirmed cases at various time steps, in various regions.
+Using N-BEATS implementations to predict COVID-19 confirmed cases and deaths at various time steps, in various regions.
 
 The data was gathered from https://data.world/covid-19-data-resource-hub/covid-19-case-counts
 
